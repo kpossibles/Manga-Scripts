@@ -8,7 +8,8 @@ If you have several INDD/INML files (like multiple chapters instead of 1 entire 
 1. Go to `File > Package…` (If working from a Book / INDB, go to `= > Package Book for Print…`)
 2. Click on `Report…` button
 3. Open up [YOURFILENAME]_report.txt in Sublime Text
-4. Ctrl+F / Cmd+F to pull up Find window and type in: `Full Name: [\w\d\- ]*`. Click Find All and copy the text
+4. Ctrl+F / Cmd+F to pull up Find window and type in: `Full Name: [\w\d\- ]*`. Make sure your select `.*` button (Regular expression) in the window to enable regex options in Find. Click Find All and copy the text.
+![alt text](https://github.com/kpossibles/Manga-Scripts/blob/master/SublimeText_Find_Window.png "Sublime Text Find Window")
 5. Select all the text and then paste the previous results.
 6. Pull up Find again and type in `Full Name: ` and press delete/backspace.
 7. Fontlist is complete! Rename your txt file to whatever you desire.
