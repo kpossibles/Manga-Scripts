@@ -6,6 +6,8 @@
 **Stack Words by 2**
 * Stack words into 2 words wide paragraphs. Also includes keeping a long word on a single line only. You can modify the `longWordLength` variable in the script to whatever amount of character length you decide is "too long" for your bubble.
 
+![alt text](https://github.com/kpossibles/Manga-Scripts/blob/master/images/StackWordsBy2.gif "Stack Words by 2 script in action on InDesign")
+
 **Extract Fontlist (extract_fontlist.md)**
 * Extract a legible font list from your InDesign files.
 
