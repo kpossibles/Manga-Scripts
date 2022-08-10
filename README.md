@@ -1,5 +1,6 @@
 # Manga-Scripts
 
+## INDESIGN
 **Stack Words**
 * Stack words by splitting by <space> character & adding a newline. Great for skinny bubbles!
 
@@ -13,3 +14,10 @@
 
 **Function and Number Key to Numpad (fn_numkey_to_numpad.json)**
 * Convert fn+1 to 1 (numeric keypad / numpad) for keyboards without one with [Karabiner Elements](https://pqrs.org/osx/karabiner/). Installation Rules: [HERE](https://github.com/pqrs-org/KE-complex_modifications#testing-your-own-rules). This is modifed from the original Complex Modifications Rule called ["Numeric Keypad"](https://pqrs.org/osx/karabiner/complex_modifications/) using Ctrl, Tab, or Caps Lock instead of Fn key.
+
+
+## PHOTOSHOP
+**List Fonts**
+* Modified to create a font list to a txt file for reporting purposes.
+* You can automate batch by creating an action with the script and use it on an entire folder.
+* Original: https://github.com/frontendbeast/list-fonts
